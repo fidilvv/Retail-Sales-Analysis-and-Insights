@@ -71,9 +71,6 @@ Retail businesses generate vast amounts of sales data, but without proper analys
   - **Customer Segmentation:** Scatter plots analyzing purchasing behavior.
   - **Geographical Sales Distribution:** Heatmaps illustrating sales across regions.
 
-## Screenshots
-(Add screenshots of key visualizations here.)
-
 ## Limitations & Future Scope
 - **Limitations:**
   - Data is historical and may not reflect real-time trends.
